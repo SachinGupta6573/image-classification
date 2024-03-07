@@ -1,0 +1,25 @@
+.select-button{
+     -fx-margin:30px;
+     -fx-padding:10px;
+     -fx-font-size:20px;
+     -fx-outline:none;
+     -fx-mid-text-color:white;
+     -fx-background-color:#673289;
+}
+.result-button{
+     -fx-margin:30px;
+     -fx-padding:10px;
+     -fx-font-size:20px;
+     -fx-mid-text-color:white;
+     -fx-outline:none;
+     -fx-background-color:#0AC71A;
+}
+.Bottom-container{
+	-fx-padding:15px;
+}
+.connected{
+	
+     -fx-mid-text-color:white;
+     -fx-outline:none;
+     -fx-background-color:#0AC71A;
+}
